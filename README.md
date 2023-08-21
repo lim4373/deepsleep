@@ -60,7 +60,7 @@ ECG 분석에서는 심전도의 심장 박동과 관련된 다양한 정보를 
 
 |<img src="https://cdn.discordapp.com/attachments/1114839224361955328/1114839531846377522/4a9595dfd36dec45.gif">|<img src="https://cdn.discordapp.com/attachments/1114839224361955328/1114839531489865790/dc30a03f920bc47a.gif" >|<img src="https://cdn.discordapp.com/attachments/1114839224361955328/1114839349649997824/bee6b9e2f0221593.gif">|<img src="https://cdn.discordapp.com/attachments/1114839224361955328/1114839349238972476/9edf67f1937bfac5.gif">|
 |------|------|------|------|
-|**Medication & Meal Alarm**|**Medication Check**|**Connecting with the elderly**|**Interaction with the elderly**|
+|<div align="center">**Medication & Meal Alarm**</div>|<div align="center">**Medication & Meal Alarm**</div>|<div align="center">**Medication & Meal Alarm**</div>|<div align="center">**Medication & Meal Alarm**</div>|
 
 
 <br> <br>
@@ -69,9 +69,9 @@ ECG 분석에서는 심전도의 심장 박동과 관련된 다양한 정보를 
 
 ## 👩‍💻 **Contributors**
 
-### **Team 3**
+### **Team 3** : Deep Sleep
 
 |**정시은**|**주윤나**|**한준호**|**박유진**|**신예진**|**최성림**|
 |---|---|---|---|---|---|
 |<img src="https://github.com/alacori/deepsleep/assets/70925118/97c473e4-bb82-4492-a009-1177484ba204">|<img src="https://github.com/alacori/deepsleep/assets/70925118/e8dfdf5c-c0f6-49b6-a8d9-6aa847198365">|<img src="https://github.com/alacori/deepsleep/assets/70925118/3bdba795-02bb-451a-bf21-52bf5a3eb688">|<img src="https://github.com/alacori/deepsleep/assets/70925118/97c473e4-bb82-4492-a009-1177484ba204">|<img src="https://github.com/alacori/deepsleep/assets/70925118/97c473e4-bb82-4492-a009-1177484ba204">|<img src="https://github.com/alacori/deepsleep/assets/70925118/97c473e4-bb82-4492-a009-1177484ba204">|
-|PSG analysis|PSG analysis|PSG analysis|ECG analysis|ECG analysis|ECG analysis|
+|<div align="center">PSG analysis</div>|<div align="center">PSG analysis</div>|<div align="center">PSG analysis</div>|<div align="center">ECG analysis</div>|<div align="center">ECG analysis</div>|<div align="center">ECG analysis</div>|
