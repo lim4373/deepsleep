@@ -48,7 +48,8 @@ ECG 분석에서는 심전도의 심장 박동과 관련된 다양한 정보를 
 
 ## 🛠 **Project Architecture**
 
-<img src="https://github.com/alacori/deepsleep/assets/70925118/3e7c585e-7a36-43cc-adc3-0065852879dd">
+<img src="https://github.com/alacori/deepsleep/assets/70925118/b92c7713-3779-4c6e-8b0d-ce1cb0b38d5d">
+
 
 
 
