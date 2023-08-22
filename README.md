@@ -60,10 +60,9 @@ ECG 분석에서는 심전도의 심장 박동과 관련된 다양한 정보를 
 
 <br> <br>
 
-|<img src="https://cdn.discordapp.com/attachments/1114839224361955328/1114839531846377522/4a9595dfd36dec45.gif">|<img src="https://cdn.discordapp.com/attachments/1114839224361955328/1114839531489865790/dc30a03f920bc47a.gif" >|<img src="https://cdn.discordapp.com/attachments/1114839224361955328/1114839349649997824/bee6b9e2f0221593.gif">|<img src="https://cdn.discordapp.com/attachments/1114839224361955328/1114839349238972476/9edf67f1937bfac5.gif">|
-|------|------|------|------|
-|<div align="center">**Medication & Meal Alarm**</div>|<div align="center">**Medication & Meal Alarm**</div>|<div align="center">**Medication & Meal Alarm**</div>|<div align="center">**Medication & Meal Alarm**</div>|
-
+|<img src="https://github.com/alacori/deepsleep/assets/70925118/77e4ec68-26bd-4e84-b3cf-451e5d338323">|<img src="https://github.com/alacori/deepsleep/assets/70925118/77e4ec68-26bd-4e84-b3cf-451e5d338323">|
+|------|------|
+|<div align="center">**PSG analysis**</div>|<div align="center">**ECG analysis**</div>|
 
 <br> <br>
 
