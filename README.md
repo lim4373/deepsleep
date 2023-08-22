@@ -48,7 +48,7 @@ ECG 분석에서는 심전도의 심장 박동과 관련된 다양한 정보를 
 
 ## 🛠 **Project Architecture**
 
-<img src="https://github.com/alacori/deepsleep/assets/70925118/b92c7713-3779-4c6e-8b0d-ce1cb0b38d5d">
+<img src="https://github.com/alacori/deepsleep/assets/98305116/0524bcdb-0537-4aa6-9445-ae286c95cf87" width=900 height=600>
 
 
 
@@ -72,5 +72,5 @@ ECG 분석에서는 심전도의 심장 박동과 관련된 다양한 정보를 
 
 |**정시은**|**주윤나**|**한준호**|**박유진**|**신예진**|**최성림**|
 |---|---|---|---|---|---|
-|<img src="https://github.com/alacori/deepsleep/assets/70925118/97c473e4-bb82-4492-a009-1177484ba204">|<img src="https://github.com/alacori/deepsleep/assets/70925118/e8dfdf5c-c0f6-49b6-a8d9-6aa847198365">|<img src="https://github.com/alacori/deepsleep/assets/70925118/3bdba795-02bb-451a-bf21-52bf5a3eb688">|<img src="https://github.com/alacori/deepsleep/assets/70925118/97c473e4-bb82-4492-a009-1177484ba204">|<img src="https://github.com/alacori/deepsleep/assets/70925118/97c473e4-bb82-4492-a009-1177484ba204">|<img src="https://github.com/alacori/deepsleep/assets/70925118/97c473e4-bb82-4492-a009-1177484ba204">|
+|<img src="https://github.com/alacori/deepsleep/assets/70925118/97c473e4-bb82-4492-a009-1177484ba204">|<img src="https://github.com/alacori/deepsleep/assets/70925118/e8dfdf5c-c0f6-49b6-a8d9-6aa847198365">|<img src="https://github.com/alacori/deepsleep/assets/70925118/3bdba795-02bb-451a-bf21-52bf5a3eb688">|<img src="https://github.com/alacori/deepsleep/assets/98305116/a011e2b8-af4a-402f-a142-7fb70e7a1659">|<img src="https://github.com/alacori/deepsleep/assets/70925118/97c473e4-bb82-4492-a009-1177484ba204">|<img src="https://github.com/alacori/deepsleep/assets/70925118/97c473e4-bb82-4492-a009-1177484ba204">|
 |<div align="center">PSG analysis</div>|<div align="center">PSG analysis</div>|<div align="center">PSG analysis</div>|<div align="center">ECG analysis</div>|<div align="center">ECG analysis</div>|<div align="center">ECG analysis</div>|
