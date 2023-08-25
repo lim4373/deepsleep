@@ -12,8 +12,8 @@
 
 ## 🛌 **주제선정 및 프로젝트 배경**
 ![](https://github.com/alacori/deepsleep/assets/70925118/e5ec1c1b-9d1e-4e60-bca0-8bf8e150db71)
-![](https://github.com/alacori/deepsleep/assets/70925118/f515e630-3af3-4217-b1e9-213b22adf8ad)
-![](https://github.com/alacori/deepsleep/assets/70925118/08afb45f-e354-474e-a816-d9d3e99ab296)
+![](https://github.com/alacori/deepsleep/assets/54527982/90ef978a-1310-4809-bdd7-8f117faa26da)
+![](https://github.com/alacori/deepsleep/assets/54527982/27d7412d-522c-47f3-92bf-2c811596c94d)
 
 
 
@@ -22,7 +22,7 @@
 <br>
 
 ## 📈 **PSG 분석**
-<img src="https://github.com/alacori/deepsleep/assets/70925118/49f9a523-96cd-4cbd-bd07-07d3c164f544">
+<img src='https://github.com/alacori/deepsleep/assets/54527982/90c33fe3-5ffd-4fdc-b964-9a82564751f0'>
 
 수면다원검사(PSG) 분석에서는 스마트워치로 측정 가능한 변수들을 기반으로 AHI와 연관성이 있는 변수를 추출해 분석을 진행하고, 최적의 모델을 찾아 수면 무호흡증의 여부와 더불어 중증도를 쉽게 알 수 있는 웹 서비스를 제공합니다.
 <br>
@@ -38,7 +38,7 @@ ECG 분석에서는 심전도의 심장 박동과 관련된 다양한 정보를 
 
 ## 🎯 **기대효과**
 
-![](https://github.com/alacori/deepsleep/assets/70925118/a47d642c-9d33-4d1d-aae5-3bb43b94c5de)
+![](https://github.com/alacori/deepsleep/assets/54527982/4ef30424-8ade-4c90-96cb-e20d1298fc76)
 
 먼저 스마트워치를 활용하여 간편하고 경제적인 방법으로 수면 무호흡증 예측이 가능합니다. 이는 복잡하고 비용이 많이 드는 수면다원검사(PSG) 대신 더 편리하게 수면 건강을 모니터링 할 수 있을 것입니다.
 또한, 스마트워치와 웹 서비스를 통한 AHI 지수 예측과 위험도 정보 제공으로 수면 무호흡증의 조기 발견이 가능할 것입니다. 조기에 문제를 파악하고 조치함으로써 심각한 합병증을 피하고 건강한 수면을 유지할 수 있습니다.
@@ -58,7 +58,7 @@ ECG 분석에서는 심전도의 심장 박동과 관련된 다양한 정보를 
 
 ## 🖥️ **Feature Screen shots**
 
-|<img src="https://github.com/alacori/deepsleep/assets/70925118/77e4ec68-26bd-4e84-b3cf-451e5d338323">|<img src="https://github.com/alacori/deepsleep/assets/70925118/77e4ec68-26bd-4e84-b3cf-451e5d338323">|
+|<img src="https://github.com/alacori/deepsleep/assets/98305116/8cf96749-49ec-4c1b-a6b0-060ea692098e">|<img src="https://github.com/alacori/deepsleep/assets/98305116/8cf96749-49ec-4c1b-a6b0-060ea692098e">|
 |------|------|
 |<div align="center">**PSG analysis**</div>|<div align="center">**ECG analysis**</div>|
 
