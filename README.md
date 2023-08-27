@@ -58,7 +58,7 @@ ECG 분석에서는 심전도의 심장 박동과 관련된 다양한 정보를 
 
 ## 🖥️ **Feature Screen shots**
 
-|<img src="https://github.com/alacori/deepsleep/assets/98305116/8cf96749-49ec-4c1b-a6b0-060ea692098e">|<img src="https://github.com/alacori/deepsleep/assets/98305116/8cf96749-49ec-4c1b-a6b0-060ea692098e">|
+|<img src="https://github.com/alacori/deepsleep/assets/98305116/8cf96749-49ec-4c1b-a6b0-060ea692098e">|<img src="https://github.com/alacori/deepsleep/assets/98305116/c8013905-d6ca-444c-b247-95ba1586306a">|
 |------|------|
 |<div align="center">**PSG analysis**</div>|<div align="center">**ECG analysis**</div>|
 
